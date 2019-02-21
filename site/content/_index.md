@@ -6,7 +6,9 @@ blurb:
     heading: Why by the sea
     text: "By the sea is where you see the sea. She sells sea pearls by the sea shore."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Listen to MPIRA Radio"
+    text: "Here"
+
+  <!-- BEGINS: HTML5 PLAYER CODE SHOUTCASTWIDGETS.COM --><audio controls autoplay style="width:100%; height:10;  background-color:#000; color:#000;" src="http://78.129.163.82:4681/;"></audio><!-- ENDS: HTML5 PLAYER CODE SHOUTCASTWIDGETS.COM -->
 
 ---
