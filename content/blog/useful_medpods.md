@@ -5,6 +5,6 @@ date: 2018-02-21
 description: "Useful Podcasts"
 ---
 
-* [Link1Test](https://thecurbsiders.com/)
-
-thnx
+* [The Curbsiders](https://thecurbsiders.com/)
+* [Emergency Medicine Cases](https://emergencymedicinecases.com/)
+* [EmCrit](https://emcrit.org/) ( Including [IBCC](https://emcrit.org/ibcc/toc/) )
