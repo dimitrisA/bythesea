@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bythesea.club/projects/viral_taxonomy/</loc>
-    <lastmod>2019-02-22T15:31:05+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bythesea.club/blog/viral_taxonomy/</loc>
     <lastmod>2019-02-22T15:31:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bythesea.club/blog/radio/</loc>
-    <lastmod>2018-07-24T17:44:36-07:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +23,10 @@
   </url>
   
   <url>
+    <loc>https://bythesea.club/blog/porphyrias/</loc>
+  </url>
+  
+  <url>
     <loc>https://bythesea.club/about/</loc>
   </url>
   
@@ -42,12 +36,29 @@
   </url>
   
   <url>
-    <loc>https://bythesea.club/projects/</loc>
+    <loc>https://bythesea.club/tags/microbiology/</loc>
     <lastmod>2019-02-22T15:31:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bythesea.club/tags/mnemonics/</loc>
+    <lastmod>2019-02-22T15:31:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bythesea.club/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bythesea.club/publication_types/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bythesea.club/tags/</loc>
+    <lastmod>2019-02-22T15:31:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   

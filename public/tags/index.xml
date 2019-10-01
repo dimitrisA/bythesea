@@ -6,9 +6,28 @@
     <description>Recent content in Tags on By the Sea</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Jimany 2018</copyright>
+    <lastBuildDate>Fri, 22 Feb 2019 15:31:05 +0200</lastBuildDate>
     
 	<atom:link href="https://bythesea.club/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microbiology</title>
+      <link>https://bythesea.club/tags/microbiology/</link>
+      <pubDate>Fri, 22 Feb 2019 15:31:05 +0200</pubDate>
+      
+      <guid>https://bythesea.club/tags/microbiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mnemonics</title>
+      <link>https://bythesea.club/tags/mnemonics/</link>
+      <pubDate>Fri, 22 Feb 2019 15:31:05 +0200</pubDate>
+      
+      <guid>https://bythesea.club/tags/mnemonics/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -4,7 +4,8 @@ date: 2019-02-22T15:31:05+02:00
 hero_image: "hero.jpg"
 description: "Having trouble remembering tiny details on viral classification and structure? Maybe this will help."
 tags:
--mnemonics, microbiology
+- mnemonics
+- microbiology
 ---
 
 <h2>DNA Viruses</h2>
