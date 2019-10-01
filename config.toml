@@ -29,6 +29,7 @@ enableGitInfo = false
   home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
 
+
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
 [blackfriday]
@@ -110,7 +111,7 @@ enableGitInfo = false
     text = "About"
 
 # Taxonomies.
-# [taxonomies]
-#   tag = "tags"
-#   category = "categories"
-#   publication_type = "publication_types"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"

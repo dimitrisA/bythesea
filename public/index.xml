@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>By the Sea</title>
+    <link>https://bythesea.club/</link>
+    <description>Recent content on By the Sea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Jimany 2018</copyright>
+    <lastBuildDate>Fri, 22 Feb 2019 15:31:05 +0200</lastBuildDate>
+    
+	<atom:link href="https://bythesea.club/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ESP8266 Wifi Repeater</title>
+      <link>https://bythesea.club/projects/viral_taxonomy/</link>
+      <pubDate>Fri, 22 Feb 2019 15:31:05 +0200</pubDate>
+      
+      <guid>https://bythesea.club/projects/viral_taxonomy/</guid>
+      <description>ESP boards </description>
+    </item>
+    
+    <item>
+      <title>Viral taxonomy. Some mnemonics</title>
+      <link>https://bythesea.club/blog/viral_taxonomy/</link>
+      <pubDate>Fri, 22 Feb 2019 15:31:05 +0200</pubDate>
+      
+      <guid>https://bythesea.club/blog/viral_taxonomy/</guid>
+      <description>DNA Viruses Generally: ds DNA, icosahedral symmetry, replicate in the nucleus (where DNA is normally found). Of them:
+ Three viruses are naked. Papova, Adeno, Parvo (&amp;ldquo;Woman naked for PAP smear exam&amp;rdquo;). Parvo is so simple it has a single DNA strand. SS Linear DNA. It&amp;rsquo;s also naked hence simple. &amp;ldquo;One Par Golf&amp;rdquo;. &amp;ldquo;A golf bat is linear and single stranded&amp;rdquo;. (22nm only, one of the smallest). &amp;ldquo;Pox in a box&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Radio Station</title>
+      <link>https://bythesea.club/blog/radio/</link>
+      <pubDate>Tue, 24 Jul 2018 17:44:36 -0700</pubDate>
+      
+      <guid>https://bythesea.club/blog/radio/</guid>
+      <description>Listen here </description>
+    </item>
+    
+    <item>
+      <title>Useful Medical Podcasts</title>
+      <link>https://bythesea.club/blog/useful_medpods/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bythesea.club/blog/useful_medpods/</guid>
+      <description> The Curbsiders Emergency Medicine Cases EmCrit ( Including IBCC )  </description>
+    </item>
+    
+  </channel>
+</rss>
