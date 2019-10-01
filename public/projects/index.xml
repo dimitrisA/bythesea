@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on By the Sea</title>
-    <link>https://bythesea.club/projects/</link>
+    <link>https://clever-lamport-4a9bed.netlify.com/projects/</link>
     <description>Recent content in Projects on By the Sea</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Jimany 2018</copyright>
     
-	<atom:link href="https://bythesea.club/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clever-lamport-4a9bed.netlify.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
